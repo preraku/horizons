@@ -1,0 +1,47 @@
+[
+  {
+    "slug": "san-francisco-ca",
+    "name": "San Francisco, California",
+    "latitude": 37.7749,
+    "longitude": -122.4194,
+    "elevation_m": 16,
+    "country": "US",
+    "type": "city"
+  },
+  {
+    "slug": "mt-rainier-wa",
+    "name": "Mount Rainier, Washington",
+    "latitude": 46.8523,
+    "longitude": -121.7603,
+    "elevation_m": 4392,
+    "country": "US",
+    "type": "mountain"
+  },
+  {
+    "slug": "denver-co",
+    "name": "Denver, Colorado",
+    "latitude": 39.7392,
+    "longitude": -104.9903,
+    "elevation_m": 1609,
+    "country": "US",
+    "type": "city"
+  },
+  {
+    "slug": "key-west-fl",
+    "name": "Key West, Florida",
+    "latitude": 24.5551,
+    "longitude": -81.7800,
+    "elevation_m": 2,
+    "country": "US",
+    "type": "city"
+  },
+  {
+    "slug": "mt-fuji-japan",
+    "name": "Mount Fuji, Japan",
+    "latitude": 35.3606,
+    "longitude": 138.7274,
+    "elevation_m": 3776,
+    "country": "JP",
+    "type": "mountain"
+  }
+]
